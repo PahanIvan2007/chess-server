@@ -1,0 +1,8 @@
+{
+  "name": "chess-server",
+  "version": "1.0.0",
+  "dependencies": {
+    "ws": "^8.14.2",
+    "uuid": "^9.0.1"
+  }
+}
